@@ -2,12 +2,7 @@ package taller3.televisores;
 
 public class Control {
 	TV tv;
-	
-	// Constructor
-	
-	public Control(TV tv) {
-		this.tv = tv;
-	}
+
 	
 	//getter and setter
 	
