@@ -16,6 +16,7 @@ public class Control {
 
 	
 	// metodo enlazar tv y control
+	// viene siendo el constructor ?
 
 	public void enlazar(TV tv) {
 		this.tv = tv;
